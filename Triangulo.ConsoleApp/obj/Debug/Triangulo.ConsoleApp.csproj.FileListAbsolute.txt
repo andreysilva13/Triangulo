@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\bin\Debug\Triangulo.ConsoleApp.exe.config
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\bin\Debug\Triangulo.ConsoleApp.exe
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\bin\Debug\Triangulo.ConsoleApp.pdb
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\obj\Debug\Triangulo.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\obj\Debug\Triangulo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\obj\Debug\Triangulo.ConsoleApp.exe
+C:\Users\Andrey\source\repos\Triangulo\Triangulo.ConsoleApp\obj\Debug\Triangulo.ConsoleApp.pdb
